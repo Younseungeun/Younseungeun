@@ -1,8 +1,8 @@
-### Hi, I'm Harry Youn!:trollface:
+### Hi, I'm Harry Youn!
 Welcome to my page!                                                                                                                                          
 I'm a new CODER from KOREA :kr:.                                                                              
 I'm currently attending GWANGMYEONGBUK high school:school:                                                                
-Nice to meet you!!:smile_cat:
+Nice to meet you!!:trollface:
 
 
 
