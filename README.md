@@ -3,7 +3,7 @@ Welcome to my page!
 I'm a new CODER from KOREA :kr:.                                                                              
 I'm currently attending GWANGMYEONGBUK high school:school:                                                                
 Nice to meet you!!:trollface:
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=00979D"/>
 
 
 
