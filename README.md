@@ -2,7 +2,7 @@
 Welcome to my page!                                                                                                                                          
 I'm a new CODER from KOREA :kr:.                                                                              
 I'm currently attending GWANGMYEONGBUK high school:school:                                                                
-Nice to meet you!!:trollface:
+Nice to meet you!!:trollface:                                                                           
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
 
 
