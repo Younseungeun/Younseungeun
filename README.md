@@ -3,7 +3,7 @@ Welcome to my page!
 I'm a new CODER from KOREA :kr:.                                                                              
 I'm currently attending GWANGMYEONGBUK high school:school:                                                                
 Nice to meet you!!:trollface:
-https://img.shields.io/endpoint?color=blue&logo=arduino
+[![Arduino]](https://img.shields.io/badge/-00979D-informational)
 
 
 <!--
